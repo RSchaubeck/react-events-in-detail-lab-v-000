@@ -4,7 +4,7 @@ import React from 'react';
 class CoordinatesButton extends React.Component {
 
   constructor(props){
-    super()
+    super(props)
   }
 
   getCoordinates = (event) => {
