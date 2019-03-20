@@ -9,7 +9,7 @@ class CoordinatesButton extends React.Component {
 
   render() {
     return(
-      <button onClick={const coord = this.getCoordinates}></button>
+      <button onClick={this.getCoordinates}></button>
     )
   }
 }
