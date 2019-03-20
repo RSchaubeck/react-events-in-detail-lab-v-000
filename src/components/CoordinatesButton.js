@@ -4,7 +4,7 @@ import React from 'react';
 class CoordinatesButton extends React.Component {
   render() {
     return(
-      <button onClick={this.getCoordinates}></button>
+      <button onClick={this.mouseCoordinates}></button>
     )
   }
 }
